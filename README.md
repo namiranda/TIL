@@ -17,6 +17,7 @@
 
 ### Git
 - [Recover Deleted Branch](git/recover-deleted-branch.md)
+- [Set Config For a Single Repository](git/set-config-for-single-repo.md)
 
 ### Http
 - [Run Load Tests](http/run-load-tests.md)
