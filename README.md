@@ -18,6 +18,7 @@
 ### Git
 - [Recover Deleted Branch](git/recover-deleted-branch.md)
 - [Set Config For a Single Repository](git/set-config-for-single-repo.md)
+- [Undo the last commit keeping the changes](/git/undo-last-commit-keeping-changes.md)
 
 ### Http
 - [Run Load Tests](http/run-load-tests.md)
