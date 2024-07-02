@@ -12,6 +12,7 @@
 
 * [Git](#git)
 * [HTTP](#http)
+* [IntelliJ](#intellij)
 * [Javascript](#javascript)
 * [SQL](#sql)
 
@@ -22,6 +23,9 @@
 
 ### Http
 - [Run Load Tests](http/run-load-tests.md)
+
+### IntelliJ
+- [Compare out-of-context files](intelliJ/compare-ooc-files.md)
 
 ### Javascript
 - [Validate Substring in ES5](javascript/validate-existence-of-a-substring-in-ES5.md)
