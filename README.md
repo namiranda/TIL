@@ -14,6 +14,7 @@
 * [HTTP](#http)
 * [IntelliJ](#intellij)
 * [Javascript](#javascript)
+* [Kibana](#kibana)
 * [SQL](#sql)
 
 ### Git
@@ -29,6 +30,9 @@
 
 ### Javascript
 - [Validate Substring in ES5](javascript/validate-existence-of-a-substring-in-ES5.md)
+
+### Kibana
+- [Exclude logs with specific substring](kibana/exclude-logs-with-specific-substring.md)
 
 ### SQL
 - [Find Column Across Schema](sql/find-columns-across-schema.md)
