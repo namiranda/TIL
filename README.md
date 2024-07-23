@@ -15,6 +15,7 @@
 * [IntelliJ](#intellij)
 * [Javascript](#javascript)
 * [Kibana](#kibana)
+* [Kotlin](#kotlin)
 * [SQL](#sql)
 
 ### Git
@@ -33,6 +34,9 @@
 
 ### Kibana
 - [Exclude logs with specific substring](kibana/exclude-logs-with-specific-substring.md)
+
+### Kotlin
+- [Case-insensitive string comparison](kotlin/case-insensitive-string-comparison.md)
 
 ### SQL
 - [Find Column Across Schema](sql/find-columns-across-schema.md)
