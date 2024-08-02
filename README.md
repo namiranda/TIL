@@ -40,6 +40,7 @@
 
 ### SQL
 - [Find Column Across Schema](sql/find-columns-across-schema.md)
+- [Using COALESCE to handle null values](sql/using-coalesce-to-handle-null.md)
   
   
 *This repo is inspired by [jbranchaud](https://github.com/jbranchaud/til)*
