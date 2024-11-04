@@ -20,6 +20,7 @@
 
 ### Git
 - [Delete the last N commits locally and in the remote](git/delete-last-n-commits.md)
+- [Move Commits to Another Branch](git/move-commits-to-another-branch.md)
 - [Recover Deleted Branch](git/recover-deleted-branch.md)
 - [Set Config For a Single Repository](git/set-config-for-single-repo.md)
 - [Undo the last commit keeping the changes](/git/undo-last-commit-keeping-changes.md)
